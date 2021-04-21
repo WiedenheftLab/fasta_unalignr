@@ -36,7 +36,7 @@ Syntax:
 
         python fasta_unalignr.py -i demo.fasta
 
-flank_grabber dependencies:
+fasta_unalignr dependencies:
 	Bio module and SeqIO available in this package          refer to https://biopython.org/wiki/Download
 	tqdm                                                    refer to https://pypi.org/project/tqdm/
 	
